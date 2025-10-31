@@ -6,6 +6,11 @@ public class PrintCountOfNumber {
     public static void main(String[] args) {
 
         int number = 1234;
+
+         String numberString =Integer.toString(number);
+         System.out.println("Total number of digit in the given number is "+numberString.length());
+
+        //Alternative solution
         int count = 0;
         int lastDigit;
 
@@ -16,6 +21,9 @@ public class PrintCountOfNumber {
         }
 
         System.out.println("Total number of digit in the given number is "+count);
+
+
+
 
     }
 
