@@ -16,7 +16,7 @@ public class ReverseFirstWordOfString {
 
             char[] charArray = inputArray[0].toCharArray();
 
-            StringBuffer stringBuffer = new StringBuffer();
+//            StringBuffer stringBuffer = new StringBuffer();
 
             int left = 0;
             int right = charArray.length - 1;
