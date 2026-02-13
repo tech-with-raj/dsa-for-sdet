@@ -1,7 +1,6 @@
-package main.java.LogicBuilding;
+package main.java.dsa;
 
 import java.util.Arrays;
-import java.util.LinkedHashSet;
 
 public class RemoveDuplicatesElementsFromArray2 {
 

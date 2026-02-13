@@ -1,6 +1,5 @@
-package main.java.LogicBuilding;
+package main.java.dsa;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class CheckAnagram {

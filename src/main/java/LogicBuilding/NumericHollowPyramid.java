@@ -1,4 +1,4 @@
-package main.java.LogicBuilding;
+package main.java.dsa;
 
 public class NumericHollowPyramid {
     public static void main(String[] args) {

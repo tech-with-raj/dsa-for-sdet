@@ -1,4 +1,4 @@
-package main.java.LogicBuilding;
+package main.java.dsa;
 
 import java.math.BigInteger;
 

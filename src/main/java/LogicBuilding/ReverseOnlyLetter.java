@@ -1,6 +1,4 @@
-package main.java.LogicBuilding;
-
-import java.util.Arrays;
+package main.java.dsa;
 
 public class ReverseOnlyLetter {
 

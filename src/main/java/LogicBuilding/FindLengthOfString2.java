@@ -1,6 +1,4 @@
-package main.java.LogicBuilding;
-
-import java.awt.*;
+package main.java.dsa;
 
 public class FindLengthOfString2 {
 
