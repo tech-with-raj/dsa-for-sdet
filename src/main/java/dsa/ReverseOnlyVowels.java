@@ -20,7 +20,7 @@ public class ReverseOnlyVowels {
 
             } else if (vowels.indexOf(inputArray[right]) == -1) {
 
-                right++;
+                right--;
             } else {
                 char temp = inputArray[left];
                 inputArray[left] = inputArray[right];
