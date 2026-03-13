@@ -28,7 +28,6 @@ Each problem includes:
 
 ## Tech Stack
 - Java
-- Maven
 
 ## Goal
 To build strong algorithmic thinking required for SDET roles.
